@@ -1,4 +1,5 @@
 /* 
 
  */
-document.getElementById("demo").innerHTML = "My First JavaScript";
+document.getElementById("demo").innerHTML = "JavaScript darba rezultāts";
+document.getElementById("musa").style="display:inline;"
