@@ -1,2 +1,2 @@
 document.getElementById("demo").innerHTML = "JavaScript darba rezultāts";
-//document.getElementById("musa").style="display:inline;"
+document.getElementById("demo").style="display:inline;"
